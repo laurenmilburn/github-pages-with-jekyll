@@ -1,3 +1,3 @@
-# Welcome to my blog
+# Lauren Milburn
 
-I'm glad you are here. I plan to talk about ...
+I will update this with my HTML resume after completing the training
